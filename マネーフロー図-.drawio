@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
   <diagram name="20250316_構想設計" id="vVwLVF1qKT9vp77RKcbo">
-    <mxGraphModel dx="828" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1561" dy="2975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="AfMFDSuWOlXhKq_SSR3L-0" />
         <mxCell id="AfMFDSuWOlXhKq_SSR3L-1" parent="AfMFDSuWOlXhKq_SSR3L-0" />
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="1WlYLgOskzP3YJ57XljQ-1" value="毎月16日にメイン口座と共用口座の残高確認を行い、&#xa;計画値から大きく外れないよう調整してする&#xa;&#xa;ただkazが大人の休日倶楽部カードで払う共用交通費は、&#xa;kaz口座から自動引落しされてしまうので、各月で&#xa;自動チャージされた金額を確認の上、代理人カードで&#xa;共用口座から現金で引落として受取ることにする。" style="text;whiteSpace=wrap;strokeColor=#FF0000;fontSize=14;fontStyle=1;fontColor=#FF0000;" parent="AfMFDSuWOlXhKq_SSR3L-1" vertex="1">
           <mxGeometry x="2900" y="-665" width="370" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mRADX2XEktQ7siPD8Mnh-0" value="＊計画では、2025年度の共通費は800万円&#xa;　（＝通常：300＋イベント：500）必要だが、　&#xa;　共通口座には400万円しかなかったので、&#xa;　2025/4/19にメイン口座からの共通口座に&#xa;　不足分の400万円を振込み年度を開始した。&#xa;　　つまり共通口座には余分なマネーはなく、　　&#xa;　2025年度末には残金０円になる予定である。" style="text;whiteSpace=wrap;strokeColor=#FF0000;fontSize=14;fontStyle=1;fontColor=#FF0000;" parent="AfMFDSuWOlXhKq_SSR3L-1" vertex="1">
+          <mxGeometry x="2533" y="-126" width="300" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
